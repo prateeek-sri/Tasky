@@ -5,7 +5,7 @@ This is a professional-grade Task Management app built with the **latest Next.js
 ## 💡 Key Features (How to Explain Them)
 
 ### 1. Modern Architecture
-We use **Next.js 15** with the **App Router**. This means our server and client code live together, making the app faster and easier to deploy (Vercel).
+We use **Next.js 16** with the **App Router**. This means our server and client code live together, making the app faster and easier to deploy (Vercel).
 
 ### 2. Double Security (AES + bcrypt)
 - **Passwords**: Hashed with `bcrypt` (one-way, can never be reversed).
@@ -23,7 +23,7 @@ All routes follow a clear pattern:
 - Return success/error.
 
 ## 🛠 Tech Stack
-- **Next.js 15**
+- **Next.js 16**
 - **MongoDB** (Mongoose)
 - **JWT** (Auth)
 - **Tailwind CSS** (Styling)
